@@ -3,7 +3,7 @@ This is the documentation of the Storybook Creator.  Setting up the Creator envi
 
 # GETTING STARTED
 
-# exaple
+# EXAMPLE
 
 ### Required
 * Intel-based Mac running OS X Yosemite
